@@ -1,0 +1,522 @@
+[
+  {
+    "id": "cn001",
+    "title": "月亮代表我的心",
+    "artist": "邓丽君",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["台湾甜歌皇后", "经典情歌对唱曲目", "月____", "你问我爱你有多深"]
+  },
+  {
+    "id": "cn002",
+    "title": "甜蜜蜜",
+    "artist": "邓丽君",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["邓丽君代表作", "微笑旋律经典", "甜___", "你笑得甜蜜蜜"]
+  },
+  {
+    "id": "cn003",
+    "title": "青花瓷",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["中国风代表", "方文山作词", "青___", "天青色等烟雨"]
+  },
+  {
+    "id": "cn004",
+    "title": "晴天",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["校园青春回忆", "吉他前奏经典", "晴_", "故事的小黄花"]
+  },
+  {
+    "id": "cn005",
+    "title": "告白气球",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["巴黎浪漫风格", "MV在法国拍摄", "告___", "塞纳河畔左岸的咖啡"]
+  },
+  {
+    "id": "cn006",
+    "title": "七里香",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["夏日初恋气息", "方文山诗意词作", "七__", "窗外的麻雀在电线杆上多嘴"]
+  },
+  {
+    "id": "cn007",
+    "title": "夜曲",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["暗黑风格", "缅怀逝去的爱情", "夜_", "为你弹奏肖邦的夜曲"]
+  },
+  {
+    "id": "cn008",
+    "title": "简单爱",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["早期经典", "初恋般简单纯粹", "简__", "我想就这样牵着你的手不放开"]
+  },
+  {
+    "id": "cn009",
+    "title": "稻香",
+    "artist": "周杰伦",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["励志温暖歌曲", "童年在田野间奔跑", "稻_", "还记得你说家是唯一的城堡"]
+  },
+  {
+    "id": "cn010",
+    "title": "十年",
+    "artist": "陈奕迅",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["KTV必点金曲", "时间与感情", "十_", "如果那两个字没有颤抖"]
+  },
+  {
+    "id": "cn011",
+    "title": "浮夸",
+    "artist": "陈奕迅",
+    "genre": "mandopop",
+    "difficulty": "hard",
+    "hints": ["高难度炫技歌曲", "小人物的呐喊", "浮_", "有人问我我就会讲"]
+  },
+  {
+    "id": "cn012",
+    "title": "好久不见",
+    "artist": "陈奕迅",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["低吟浅唱风格", "再见旧爱", "好___", "我来到你的城市"]
+  },
+  {
+    "id": "cn013",
+    "title": "后来",
+    "artist": "刘若英",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["遗憾的爱情故事", "女声KTV热门", "后_", "后来我总算学会了如何去爱"]
+  },
+  {
+    "id": "cn014",
+    "title": "童话",
+    "artist": "光良",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["MV感人至深", "钢琴前奏经典", "童_", "忘了有多久再没听到你"]
+  },
+  {
+    "id": "cn015",
+    "title": "起风了",
+    "artist": "买辣椒也用券",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["网络翻唱走红", "日文原曲改编", "起__", "我曾将青春翻涌成她"]
+  },
+  {
+    "id": "cn016",
+    "title": "演员",
+    "artist": "薛之谦",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["情感真挚催泪", "现代情歌代表", "演_", "简单点说话的方式简单点"]
+  },
+  {
+    "id": "cn017",
+    "title": "小幸运",
+    "artist": "田馥甄",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["电影主题曲", "校园青春", "小__", "原来你是我最想留住的幸运"]
+  },
+  {
+    "id": "cn018",
+    "title": "隐形的翅膀",
+    "artist": "张韶涵",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["励志歌曲代表", "高音女声", "隐____", "每一次都在徘徊孤单中坚强"]
+  },
+  {
+    "id": "cn019",
+    "title": "最炫民族风",
+    "artist": "凤凰传奇",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["广场舞神曲", "国民组合", "最____", "苍茫的天涯是我的爱"]
+  },
+  {
+    "id": "cn020",
+    "title": "荷塘月色",
+    "artist": "凤凰传奇",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["中国风广场舞", "夏日夜晚", "荷___", "剪一段时光缓缓流淌"]
+  },
+  {
+    "id": "cn021",
+    "title": "江南",
+    "artist": "林俊杰",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["新加坡创作才子", "中国风R&B", "江_", "风到这里就是粘"]
+  },
+  {
+    "id": "cn022",
+    "title": "一千年以后",
+    "artist": "林俊杰",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["未来科幻主题", "林式高音", "一____", "心跳乱了节奏"]
+  },
+  {
+    "id": "cn023",
+    "title": "说谎",
+    "artist": "林宥嘉",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["备胎之歌", "忧郁嗓音", "说_", "是有过几个不错对象"]
+  },
+  {
+    "id": "cn024",
+    "title": "遇见",
+    "artist": "孙燕姿",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["电影向左走向右走", "钢琴清新前奏", "遇_", "听见冬天的离开"]
+  },
+  {
+    "id": "cn025",
+    "title": "勇气",
+    "artist": "梁静茹",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["疗伤情歌天后", "勇敢追爱", "勇_", "终于做了这个决定"]
+  },
+  {
+    "id": "cn026",
+    "title": "宁夏",
+    "artist": "梁静茹",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["夏天夜晚宁静", "轻松旋律", "宁_", "宁静的夏天天空中繁星点点"]
+  },
+  {
+    "id": "cn027",
+    "title": "红豆",
+    "artist": "王菲",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["林夕经典词作", "天长地久", "红_", "还没好好地感受"]
+  },
+  {
+    "id": "cn028",
+    "title": "传奇",
+    "artist": "王菲",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["春晚翻唱走红", "李健创作", "传_", "只是因为在人群中多看了你一眼"]
+  },
+  {
+    "id": "cn029",
+    "title": "山丘",
+    "artist": "李宗盛",
+    "genre": "folk",
+    "difficulty": "hard",
+    "hints": ["人生感悟", "大叔嗓音", "山_", "想说却还没说的还很多"]
+  },
+  {
+    "id": "cn030",
+    "title": "凡人歌",
+    "artist": "李宗盛",
+    "genre": "rock",
+    "difficulty": "medium",
+    "hints": ["人生哲理", "江湖气息", "凡__", "你我皆凡人生在人世间"]
+  },
+  {
+    "id": "cn031",
+    "title": "倔强",
+    "artist": "五月天",
+    "genre": "rock",
+    "difficulty": "easy",
+    "hints": ["青春励志摇滚", "五月天精神", "倔_", "当我和世界不一样"]
+  },
+  {
+    "id": "cn032",
+    "title": "突然好想你",
+    "artist": "五月天",
+    "genre": "rock",
+    "difficulty": "easy",
+    "hints": ["思念前任", "演唱会大合唱", "突____", "最怕空气突然安静"]
+  },
+  {
+    "id": "cn033",
+    "title": "知足",
+    "artist": "五月天",
+    "genre": "rock",
+    "difficulty": "medium",
+    "hints": ["星空主题", "释怀与放下", "知_", "怎么去拥有一道彩虹"]
+  },
+  {
+    "id": "cn034",
+    "title": "恋爱ing",
+    "artist": "五月天",
+    "genre": "rock",
+    "difficulty": "easy",
+    "hints": ["快乐摇滚", "热恋中", "恋___", "陪你熬夜聊天到爆肝也没关系"]
+  },
+  {
+    "id": "cn035",
+    "title": "成都",
+    "artist": "赵雷",
+    "genre": "folk",
+    "difficulty": "easy",
+    "hints": ["城市民谣", "玉林路小酒馆", "成_", "让我掉下眼泪的不止昨夜的酒"]
+  },
+  {
+    "id": "cn036",
+    "title": "那些年",
+    "artist": "胡夏",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["青春电影主题曲", "校园回忆", "那__", "又回到最初的起点"]
+  },
+  {
+    "id": "cn037",
+    "title": "老鼠爱大米",
+    "artist": "杨臣刚",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["网络神曲鼻祖", "2004年爆红", "老____", "我听见你的声音"]
+  },
+  {
+    "id": "cn038",
+    "title": "你是我的眼",
+    "artist": "萧煌奇",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["视障歌手原创", "感恩主题", "你____", "如果我能看得见"]
+  },
+  {
+    "id": "cn039",
+    "title": "可惜不是你",
+    "artist": "梁静茹",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["婚礼常用歌曲", "分手遗憾", "可____", "这一刻突然觉得好熟悉"]
+  },
+  {
+    "id": "cn040",
+    "title": "消愁",
+    "artist": "毛不易",
+    "genre": "folk",
+    "difficulty": "medium",
+    "hints": ["明日之子出道", "酒杯人生", "消_", "当你走进这欢乐场"]
+  },
+  {
+    "id": "en001",
+    "title": "Happy Birthday",
+    "artist": "Traditional",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Celebration song", "Everyone knows this", "H____ B______", "Happy birthday to you"]
+  },
+  {
+    "id": "en002",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Most covered song ever", "Liverpool legends", "Y_______", "All my troubles seemed so far away"]
+  },
+  {
+    "id": "en003",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Mother Mary whispers", "Final album", "L__ __ __", "When I find myself in times of trouble"]
+  },
+  {
+    "id": "en004",
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Written for Julian", "La-la-la chorus", "H__ J___", "Take a sad song and make it better"]
+  },
+  {
+    "id": "en005",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Marimba beat", "2017 global hit", "S____ __ ___", "The club isn't the best place to find a lover"]
+  },
+  {
+    "id": "en006",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Wedding first dance", "Romantic ballad", "P______", "I found a love for me"]
+  },
+  {
+    "id": "en007",
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Romeo and Juliet", "Country-pop crossover", "L___ S____", "We were both young when I first saw you"]
+  },
+  {
+    "id": "en008",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Haters gonna hate", "Pop anthem", "S____ __ ___", "I stay out too late"]
+  },
+  {
+    "id": "en009",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "genre": "english",
+    "difficulty": "medium",
+    "hints": ["Powerhouse vocals", "Breakup anthem", "R______ __ ___ D___", "There's a fire starting in my heart"]
+  },
+  {
+    "id": "en010",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "genre": "english",
+    "difficulty": "medium",
+    "hints": ["Piano ballad", "Heartbreak classic", "S_______ L___ ___", "I heard that you're settled down"]
+  },
+  {
+    "id": "en011",
+    "title": "My Heart Will Go On",
+    "artist": "Celine Dion",
+    "genre": "film",
+    "difficulty": "easy",
+    "hints": ["Titanic theme", "Recorder meme", "__ H____ W___ __ __", "Every night in my dreams"]
+  },
+  {
+    "id": "en012",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genre": "rock",
+    "difficulty": "hard",
+    "hints": ["Operatic rock", "Mama, just killed a man", "B_______ R_______", "Is this the real life"]
+  },
+  {
+    "id": "en013",
+    "title": "We Will Rock You",
+    "artist": "Queen",
+    "genre": "rock",
+    "difficulty": "easy",
+    "hints": ["Stomp-stomp-clap", "Sports stadium anthem", "__ ____ ____ ___", "Buddy you're a boy"]
+  },
+  {
+    "id": "en014",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "genre": "rock",
+    "difficulty": "medium",
+    "hints": ["Guitar solo classic", "You can check out but never leave", "H____ C_________", "On a dark desert highway"]
+  },
+  {
+    "id": "en015",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "genre": "english",
+    "difficulty": "easy",
+    "hints": ["Folk-pop crossover", "2013 hit", "C_______ S____", "Lately I've been I've been losing sleep"]
+  },
+  {
+    "id": "cn041",
+    "title": "海阔天空",
+    "artist": "Beyond",
+    "genre": "cantopop",
+    "difficulty": "easy",
+    "hints": ["香港摇滚传奇", "自由与理想", "海___", "今天我寒夜里看雪飘过"]
+  },
+  {
+    "id": "cn042",
+    "title": "光辉岁月",
+    "artist": "Beyond",
+    "genre": "cantopop",
+    "difficulty": "medium",
+    "hints": ["致敬曼德拉", "抗争与平等", "光___", "钟声响起归家的讯号"]
+  },
+  {
+    "id": "cn043",
+    "title": "小苹果",
+    "artist": "筷子兄弟",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["广场舞神曲", "电影老男孩插曲", "小__", "我种下一颗种子"]
+  },
+  {
+    "id": "cn044",
+    "title": "朋友",
+    "artist": "周华健",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["友谊经典", "毕业必唱", "朋_", "这些年一个人"]
+  },
+  {
+    "id": "cn045",
+    "title": "两只蝴蝶",
+    "artist": "庞龙",
+    "genre": "mandopop",
+    "difficulty": "easy",
+    "hints": ["网络彩铃时代", "2004年热歌", "两___", "亲爱的你慢慢飞"]
+  },
+  {
+    "id": "cn046",
+    "title": "空白格",
+    "artist": "杨宗纬",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["电影一生一世主题曲", "深情哭腔", "空__", "其实很简单其实很自然"]
+  },
+  {
+    "id": "cn047",
+    "title": "洋葱",
+    "artist": "杨宗纬",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["层层剥开你的心", "催泪高音", "洋_", "如果你眼神能够为我片刻的降临"]
+  },
+  {
+    "id": "cn048",
+    "title": "淘汰",
+    "artist": "陈奕迅",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["周杰伦作曲", "爱情淘汰赛", "淘_", "我说了所有的谎你全都相信"]
+  },
+  {
+    "id": "cn049",
+    "title": "她说",
+    "artist": "林俊杰",
+    "genre": "mandopop",
+    "difficulty": "medium",
+    "hints": ["女性视角创作", "JJ式情歌", "她_", "他静悄悄地来过"]
+  },
+  {
+    "id": "cn050",
+    "title": "爱情转移",
+    "artist": "陈奕迅",
+    "genre": "film",
+    "difficulty": "medium",
+    "hints": ["电影爱情呼叫转移主题曲", "粤语版富士山下", "爱___", "徘徊过多少橱窗"]
+  }
+]
